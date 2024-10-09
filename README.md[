@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+
+<body>
+    <table>
+        <th colspan="16">
+            <center>
+                <Form>
+
+                    <h3>First Name</h3>
+                    <input type="text">
+
+                    <h3>Last Name</h3>
+                    <input type="text">
+
+                    <h3>Username</h3>
+                    <input type="text">
+
+                    <h3>Email</h3>
+                    <input type="email">
+
+                    <h3>Password</h3>
+                    <input type="password">
+
+                    <h3>Date of birth</h3>
+                    <input type="date">
+
+
+                    <br>
+                    <br>
+                    <br><input type="reset">
+
+                </Form>
+            </center>
+        </th>
+    </table>
+</body>
+
+</html>
